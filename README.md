@@ -42,11 +42,15 @@ Programming student focused on learning software development and problem solving
 
 ## Statistics
 
+<br />
+
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Arthur137116&show_icons=true&theme=dark&bg_color=000000&title_color=ffffff&text_color=cccccc&icon_color=ffffff&border_color=333333" alt="GitHub Stats" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Arthur137116&layout=compact&theme=dark&bg_color=000000&title_color=ffffff&text_color=cccccc&border_color=333333" alt="Top Languages" height="150" />
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=Arthur137116&show_icons=true&theme=dark&bg_color=000000&title_color=ffffff&text_color=cccccc&icon_color=ffffff&border_color=333333&card_width=420" alt="GitHub Stats" height="150" />
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Arthur137116&theme=dark&bg_color=000000&title_color=ffffff&text_color=cccccc&border_color=333333&card_width=420" alt="Top Languages" height="150" />
 </div>
 
+<br />
 <br />
 
 <div align="center">
@@ -54,17 +58,10 @@ Programming student focused on learning software development and problem solving
 </div>
 
 <br />
+<br />
 
 <div align="center">
   <img src="https://github-profile-trophies.vercel.app/?username=Arthur137116&theme=darkhub&no-frame=true&no-background=true&margin-w=15" alt="GitHub Trophies" />
-</div>
-
----
-
-## Activity Graph
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Arthur137116&theme=github-compact&bg_color=000000&color=ffffff&line=ffffff&point=ffffff&area=true&hide_border=true" alt="Activity Graph" width="100%" />
 </div>
 
 ---
