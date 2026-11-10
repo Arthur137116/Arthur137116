@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&pause=400&duration=2500&color=FFFFFF&center=true&vCenter=true&width=500&lines=Arthur+Vieira;Programming+Student;Developing+in+Python" alt="Typing Animation" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&pause=400&duration=2000&color=FFFFFF&center=true&vCenter=true&width=500&lines=Arthur+Vieira;Programming+Student;Developing+in+Python" alt="Typing Animation" />
 </div>
 
 <br />
@@ -72,5 +72,21 @@ Programming student focused on learning software development and problem solving
 ## Contribution Animation
 
 <div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="
+  <img src="https://raw.githubusercontent.com/Arthur137116/Arthur137116/output/github-contribution-grid-snake-dark.svg" alt="Snake Contribution" />
+</div>
+
+---
+
+## Contact
+
+<div align="center">
+  <a href="https://instagram.com/arthur.vms_">
+    <img src="https://img.shields.io/badge/Instagram-000000?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
+  </a>
+</div>
+
+<br />
+
+<div align="center">
+  <sub>Developed by Arthur Vieira</sub>
+</div>
